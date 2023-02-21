@@ -1,0 +1,14 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: azure;
+}
+h1{
+    text-align: center;
+}
+p, h3{
+    text-indent: 30px;
+    margin: 10px 30px;
+}
+details{
+    margin: 10px 60px ;
+}
