@@ -1,3 +1,2 @@
 # Resume
-This web page is my resume
-https://heindale.github.io/Portfolio
+<p><a href="https://heindale.github.io/Portfolio">This web page is my portfolio</a></p>
